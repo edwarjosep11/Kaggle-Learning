@@ -1,4 +1,4 @@
-# Kaggle: Deep
+# Kaggle: Computer Vision
 Welcome to my learning repository for the Kaggle Computer Vision course. This repository contains my solutions and exercises for the course, which covers building convolutional neural networks with TensorFlow and Keras.
 
 ## Course Overview
@@ -25,7 +25,8 @@ The exercises folder contains the exercise files for the lesson, and the solutio
 
 ## Certificate
 I have completed 100% of the course and obtained a certificate of completion for the Computer Vision course.
-![Edwar Josep Benavente Ingiltupa - Computer Vision](https://user-images.githubusercontent.com/98628416/233489557-f52479e8-aa41-42d4-9837-96fe2f674026.png)
+![image](https://user-images.githubusercontent.com/98628416/233754504-b8ddc1be-2651-4c25-ad66-b46665de376f.png)
+
 
 ## References
 To enroll in the course or to learn more, please visit the [Kaggle Computer Vision Course](https://www.kaggle.com/learn/computer-vision) page.
